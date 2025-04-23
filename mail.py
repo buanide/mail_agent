@@ -7,8 +7,8 @@ from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
-EMAIL = "dokiengoue@gmail.com"
-MOT_DE_PASSE = "kzkc ruth vbry quxg"
+EMAIL = ""
+MOT_DE_PASSE = ""
 SERVEUR_IMAP = "imap.gmail.com"
 
 from datetime import datetime
